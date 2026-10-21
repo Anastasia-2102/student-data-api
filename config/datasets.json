@@ -15,8 +15,12 @@
     "file": "data/cereal.csv",
     "description": "Cereal nutrition information including calories, protein, fat, sodium, fiber, carbohydrates, sugars, and ratings"
   },
-  "us-national-parks": {
-  "file": "data/us-national-parks.csv",
-  "description": "US national parks with locations, establishment dates, areas, visitors, images, and descriptions"
-}
+   "us-national-parks": {
+    "file": "data/us-national-parks.csv",
+    "description": "US national parks with locations, establishment dates, areas, visitors, images, and descriptions"
+  },
+  "volcano-eruptions": {
+    "file": "data/volcano-eruptions.csv",
+    "description": "Volcanoes with names, countries, types, eruption dates, locations, elevations, rock types, and tectonic settings"
+  }
 }
